@@ -2,4 +2,6 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+I am currently a fourth year student at the University of California, Berkeley studying Economics. Starting in Summer 2020, I will be a Finance Research Fellow at Northwestern University. This webiste will contain all my research, my CV and any other projects/blog posts I do. 
+
+![](profile.jpeg)

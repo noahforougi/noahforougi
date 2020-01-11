@@ -1,5 +1,7 @@
 ---
 title: "Noah's Website"
 ---
-
-Hello, World!
+- [About me](https://noahforougi.github.io/noahforougi/about.html)
+- [Research](https://noahforougi.github.io/noahforougi/research.html)
+- [CV](https://noahforougi.github.io/noahforougi/cv.html)
+- [Blog](https://noahforougi.github.io/noahforougi/blog.html)

@@ -1,9 +1,16 @@
 name: "noahs-website"
 output_dir: "."
 navbar:
-  title: "Noah's Website"
+  title: "Noah Forougi"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "CV"
+      href: cv.html
+    - text: "Blog"
+      href: blog.html
+      
