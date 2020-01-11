@@ -2,4 +2,7 @@
 title: "Research"
 ---
 
-Prior Research
+- #### "Multinational Enterprises and Resiliency during the Global Financial Crisis"
+    - Published for Economics 191 (Topics in Economic Research) in 2019
+    - [Download current version here](Multinational Enterprises and Resiliency during the Global Financial Crisis)
+    - [Github repository with data and code](https://github.com/noahforougi/multinationals)
