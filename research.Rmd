@@ -4,5 +4,5 @@ title: "Research"
 
 - #### "Multinational Enterprises and Resiliency during the Global Financial Crisis"
     - Published for Economics 191 (Topics in Economic Research) in 2019
-    - [Download current version here](Multinational Enterprises and Resiliency during the Global Financial Crisis)
+    - [Download current version here](https://github.com/noahforougi/multinationals/raw/master/paper/finaldraft/Multinationals.pdf)
     - [Github repository with data and code](https://github.com/noahforougi/multinationals)
