@@ -1,5 +1,7 @@
 ---
-title: "Blog Posts"
+title: "Blog and Side Projects"
 ---
 
-Blog/Side Projects
+#### Visualizing California CO2 Emissions from Transportation
+- Write-up can be found [here](https://github.com/noahforougi/co2emissions/blob/master/summarydocument.md)
+- Tableau visualizations can be found [here](https://public.tableau.com/views/CO2percapita_15559773437740/Sheet1?:showVizHome=no&:embed=yes)
