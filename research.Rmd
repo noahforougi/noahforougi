@@ -6,3 +6,7 @@ title: "Research"
     - Published for Economics 191 (Topics in Economic Research) in 2019
     - [Download current version here](https://github.com/noahforougi/multinationals/raw/master/paper/finaldraft/Multinationals.pdf)
     - [Github repository with data and code](https://github.com/noahforougi/multinationals)
+
+- #### “Microfinance for clean cooking: what lessons can be learned for scaling up LPG adoption in Kenya through managed loans?" (with E. Hsu, M. Gan, E. Muchiri, E. Puzzolo)
+    - On-going
+
