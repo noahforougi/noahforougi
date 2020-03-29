@@ -1,8 +1,9 @@
 ---
 title: "About Me"
 ---
-<img style="float: left;" src="profile.jpeg"> 
 
 I am currently a fourth year student at the University of California, Berkeley studying Economics. Starting in Summer 2020, I will be a Finance Research Fellow at Northwestern University. My research interests include international economics, multinational firms and economic development. 
 
 This website will contain all my [research](https://noahforougi.github.io/noahforougi/research.html), my [CV](https://noahforougi.github.io/noahforougi/cv.html) and any other [projects/blog posts](https://noahforougi.github.io/noahforougi/blog.html). 
+
+<img style="float: left;" src="profile.jpg"> 
