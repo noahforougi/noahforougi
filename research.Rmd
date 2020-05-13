@@ -3,7 +3,7 @@ title: "Research"
 ---
 - #### "The Risk Taking Channel of Monetary Policy and Foreign Banks"
     - Department of Economics Undergraduate Honors Thesis (May 2020)
-    - [Download current version here](https://github.com/noahforougi/multinationals/raw/master/paper/finaldraft/Multinationals.pdf)
+    - [Download current version here](https://github.com/noahforougi/noahforougi/raw/master/RiskChannelOECD.pdf)
 
     
 
