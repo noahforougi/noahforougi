@@ -4,13 +4,14 @@ title: "Research"
 - #### "The Risk Taking Channel of Monetary Policy and Foreign Banks"
     - Department of Economics Undergraduate Honors Thesis (May 2020)
     - [Download current version here](https://github.com/noahforougi/noahforougi/raw/master/RiskChannelOECD.pdf)
+    - Data is confidential; originally sourced through [S&P Capital IQ database](https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-platform). 
 
     
 
 - #### "Multinational Enterprises and Resiliency during the Global Financial Crisis"
     - Published for Economics 191 (Topics in Economic Research) in 2019
     - [Download current version here](https://github.com/noahforougi/multinationals/raw/master/paper/finaldraft/Multinationals.pdf)
-    - [Github repository with data and code](https://github.com/noahforougi/multinationals)
+    - [Github repository with data](https://github.com/noahforougi/multinationals)
 
 - #### “Microfinance for clean cooking: what lessons can be learned for scaling up LPG adoption in Kenya through managed loans?" (with E. Hsu, M. Gan, E. Muchiri, E. Puzzolo)
     - On-going
