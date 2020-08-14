@@ -2,4 +2,4 @@
 title: "Curriculum Vitae"
 ---
 
-My CV can be found [here](noahforougi_cv.pdf)
+My CV can be found [here](noahforougi_cv.pdf).
