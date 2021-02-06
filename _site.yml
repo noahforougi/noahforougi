@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "Noah Forougi"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About Me"
       href: about.html
     - text: "Research"
